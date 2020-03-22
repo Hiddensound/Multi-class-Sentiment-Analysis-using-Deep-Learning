@@ -22,3 +22,8 @@ This is my completed assignment for the course Natural Language Processing (COMP
   * Preprocessing_steps.png and Assign_2_Model.png were created using Lucidchart.
   * Loss_Epoch.png, Accuracy_Epoch.png, and assgn2.png were created using matplotlib and are saved
     using savefig() command.
+    
+## To run the code:
+1. Open the 0889445_NLP_Assignment_2_Tejas_Wadiwala.ipynb in Google Colab.
+2. Mount your Google Drive.
+3. Go to Run -> Run all.
